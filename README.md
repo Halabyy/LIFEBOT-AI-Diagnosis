@@ -129,14 +129,5 @@ mvn spring-boot:run
 - Expand LifeBot integration and add more sensors.
 - Add automated tests and CI/CD.
 
----
 
-## Contributors
-- [Your Name]
-- [Colleague 1: LifeBot]
-- [Colleague 2: Trustr/ChatGPT]
 
----
-
-## License
-[Specify your license here]
